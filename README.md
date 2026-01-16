@@ -1,6 +1,7 @@
 ## Resume Online Capstone Project1 - Udemy
 
-****(initial outline only below of resume - prior to filling contact info & prior to styling & adding addtl js)****
+****(initial outline only below of resume - prior to filling contact info & prior to styling & adding addtl js)**** <br>
+**(adding outline only index.html - more to come soon)**
 <br>
 <br>
 
